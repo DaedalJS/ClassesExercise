@@ -1,0 +1,13 @@
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\bin\Debug\netcoreapp3.1\ClassesExercise1.exe
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\bin\Debug\netcoreapp3.1\ClassesExercise1.deps.json
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\bin\Debug\netcoreapp3.1\ClassesExercise1.runtimeconfig.json
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\bin\Debug\netcoreapp3.1\ClassesExercise1.runtimeconfig.dev.json
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\bin\Debug\netcoreapp3.1\ClassesExercise1.dll
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\bin\Debug\netcoreapp3.1\ClassesExercise1.pdb
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\obj\Debug\netcoreapp3.1\ClassesExercise1.csprojAssemblyReference.cache
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\obj\Debug\netcoreapp3.1\ClassesExercise1.AssemblyInfoInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\obj\Debug\netcoreapp3.1\ClassesExercise1.AssemblyInfo.cs
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\obj\Debug\netcoreapp3.1\ClassesExercise1.csproj.CoreCompileInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\obj\Debug\netcoreapp3.1\ClassesExercise1.dll
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\obj\Debug\netcoreapp3.1\ClassesExercise1.pdb
+C:\Users\HolyK\Desktop\GitRepos\ClassesExercise1\ClassesExercise1\obj\Debug\netcoreapp3.1\ClassesExercise1.genruntimeconfig.cache
